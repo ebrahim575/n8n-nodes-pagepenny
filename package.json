@@ -1,6 +1,6 @@
 {
   "name": "n8n-nodes-pagepenny",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "n8n node for PagePenny: render PDFs and images from templates or HTML, one cent per render",
   "license": "MIT",
   "homepage": "https://pagepenny.com",
